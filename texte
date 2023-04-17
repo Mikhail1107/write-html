@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fr">
+<!-- Head of the document -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Mikhail LI">
+    <meta name="description" content="Les chats sont les membres de la famille des félins">
+    <title>L'histoire des chats | Domestication</title>
+    <link rel="shortcut icon" href="etoile.ico" type="image/x-icon">
+</head>
+<!-- Body of the document -->
+<body>
+    <!-- Titre principal de la page -->
+<h1>Qui sont les chats ?</h1>
+
+<p>
+    Les <strong>chats</strong> sont les membres de la famille des <em>félins</em>, et ils partagent de nombreuses caractéristiques avec leurs cousins ​​les lions, les tigres et les panthères. Les chats domestiques sont les plus populaires au monde et sont adorés par des millions de personnes pour leur compagnie et leur affectueuse nature.
+</p>
+
+<!-- Sous-titre -->
+<h2>Quelle est l'histoire des chats ?</h2>
+
+<!-- Sous sous-titre -->
+<h3>Les premiers chats domestiques</h3>
+
+<p>
+    Les chats sont originaires d'Afrique, d'Asie et d'Europe, et ils ont été <em>domestiqués</em> il y a environ <strong>9 000</strong> ans. Les premiers chats domestiques étaient probablement des chats sauvages qui se sont approchés des humains pour profiter de leur nourriture. Au fil du temps, les chats et les humains ont développé une relation symbiotique, et les chats ont été apprivoisés et domestiqués.
+</p>
+<img src="https://placekitten.com/200/287" alt="A Cute cat" width="300 px" />
+<button disabled>Click here</button>
+
+<h3>La domestication des chats en Europe</h3>
+<p>
+    Les chats ont été introduits en <em>Europe</em> au <strong>Moyen Âge</strong>, où ils ont été utilisés pour chasser les rats et les souris. Les nobles européens ont rapidement adopté les chats comme animaux de compagnie, et ils ont été très appréciés pour leur beauté et leur personnalité. Au fil du temps, les chats ont été introduits dans d'autres parties du monde, et ils ont rapidement gagné en popularité.
+</p>
+
+<h3>Quelles sont les caractéristiques des chats ?</h3>
+<p>
+    Les chats sont des animaux très intelligents et ils ont un sens aigu de l'observation. Ils sont également très flexibles, et ils peuvent se contorsionner pour atteindre des endroits inaccessibles. Les chats sont capables de sauter jusqu'à <em>cinq fois</em> leur hauteur, et ils peuvent courir à des vitesses allant jusqu'à <strong>45 <abbr title="kilomètres">km</abbr> /<abbr title="heure">h</abbr></strong>.
+</p>
+<p>
+    Les chats ont une excellente vision nocturne, et ils sont très sensibles aux mouvements. Ils ont également un excellent sens de l'odorat, et ils peuvent <em>détecter des odeurs</em> à des distances allant jusqu'à <strong>100 mètres</strong>. 
+</p>
+
+<blockquote cite="https://absolumentchats.com/60-citations-sur-les-chats/#:~:text=%C2%AB%20L'id%C3%A9al%20du%20calme%20est%20dans%20un%20chat%20assis.%20%C2%BB&text=%C2%AB%20Mieux%20vaut%20%C3%A9lever%20son%20esprit%20que%20des%20chats%20siamois.%20%C2%BB&text=%C2%AB%20On%20ne%20choisi%20jamais%20un,est%20lui%20qui%20vous%20choisi.%20%C2%BB&text=%C2%AB%20Les%20chiens%20ont%20des%20ma%C3%AEtres,les%20chats%20ont%20des%20serviteurs.%20%C2%BB">
+     « Il y a deux moyens d’oublier les tracas de la vie, la musique et les chats. » 
+</blockquote>
+
+<pre>
+    <code>
+&lt;h1&gt;Hello, world&lt;/h1&gt;
+&lt;h2&gt;Welcome to my Website&lt;/h2&gt;
+    </code>
+</pre>
+
+<a href="about.html"><p>Retourner à la page "À propos"</p></a>
+
+</body>
+</html>
